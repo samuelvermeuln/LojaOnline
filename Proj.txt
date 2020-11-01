@@ -1,0 +1,38 @@
+Nome da LOJA : Mercearia GeeK 
+
+
+Cadastro do Cliente.
+    	Nome : string
+    	Idade :  < de 18 não compra int
+    	Endereço : string
+    	Cep : double
+    	Telefone : sem DD double
+Itens do estoque . 
+    	Valor : double
+    	Quantidade : int
+    	Tipo : string
+    	Controle de estoque: a definir a regra
+Carrinho .
+    	Nome do cliente atual: string
+    	Opção de lista todos os itens do carrinho:
+    	Quantidade de cada item selecionado:
+    	Valor total até o momento:
+
+
+produto x - quant. 10
+produto x - quant. 9
+produto x - Valor $
+produto x e produto y - valor 
+
+01 - compra
+02 - Retirada
+03 - Encerrar carrinho
+
+Digite o codigo desejado :
+01
+codigo do produto:
+1
+Digite o codigo desejado :
+03
+valor total do carrinho
+gerar codigo de barra para pagamento:( 10 aletorios)
