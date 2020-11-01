@@ -67,7 +67,7 @@ class MainClass {
     while( pedido != 04 ){
       Console.WriteLine($@" 
 
-      
+
        Digite A Opção Desejada:  
       
       ");
